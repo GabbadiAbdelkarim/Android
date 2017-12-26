@@ -1,0 +1,12 @@
+{
+    "id": "1",
+    "name": "My WoT Raspberry Pi",
+    "createdAt": "18/12/2017",
+    "updatedAt": "25/12/2017",
+    "description": "A simple WoT-connected Raspberry Pi for the WoT book.",
+    "tags": [
+        "raspberry",
+        "pi",
+        "WoT"
+    ]
+}
