@@ -1,4 +1,4 @@
-{[{
+{{
 		"name": "Gabbadi Abdelkarim",
 		"species": "Human",
 		"description": "Administrator",
@@ -19,5 +19,5 @@
 		"thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/thumbnail_dartfrog.jpg",
 		"image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/dartfrog.jpg"
 	}
-]
+
 }
