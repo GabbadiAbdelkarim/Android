@@ -1,20 +1,20 @@
 [{
 		"name": "Gabbadi Abdelkarim",
-		"species": "Human",
 		"description": "Administrator",
+		"role": "admin",
 		"thumbnail": "https://raw.githubusercontent.com/GabbadiAbdelkarim/Android/master/13410339_1107959069249839_1754291686_o.jpg",
 		"image": "https://raw.githubusercontent.com/GabbadiAbdelkarim/Android/master/13410339_1107959069249839_1754291686_o.jpg"
 	},
 	{
 		"name": "Ghazi Ali",
-		"species": "Human",
+		"role": "user",
 		"description": "Administrator binome",
 		"thumbnail": "https://raw.githubusercontent.com/GabbadiAbdelkarim/Android/master/ali.jpg",
 		"image": "https://raw.githubusercontent.com/GabbadiAbdelkarim/Android/master/ali.jpg"
 	},
 	{
-		"name": "Director",
-		"species": "Allien",
+		"name": "Ahmed",
+		"role": "prof",
 		"description": "Le directeur",
 		"thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/thumbnail_dartfrog.jpg",
 		"image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/dartfrog.jpg"
