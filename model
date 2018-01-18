@@ -1,26 +1,24 @@
-[{
+[
+	{
 		"id": "1",
-		"name": "Gabbadi Abdelkarim",
+		"name": "MIAGE 1",
 		"description": "Administrator",
-		"role": "admin",
-		"thumbnail": "https://raw.githubusercontent.com/GabbadiAbdelkarim/Android/master/13410339_1107959069249839_1754291686_o.jpg",
-		"image": "https://raw.githubusercontent.com/GabbadiAbdelkarim/Android/master/13410339_1107959069249839_1754291686_o.jpg"
+		"thumbnail": "https://github.com/GabbadiAbdelkarim/Android/blob/master/m1.png",
+		"image": "https://github.com/GabbadiAbdelkarim/Android/blob/master/m1.png"
 	},
 	{
 		"id": "2",
-		"name": "Ghazi Ali",
-		"role": "user",
-		"description": "Administrator binome",
-		"thumbnail": "https://raw.githubusercontent.com/GabbadiAbdelkarim/Android/master/ali.jpg",
-		"image": "https://raw.githubusercontent.com/GabbadiAbdelkarim/Android/master/ali.jpg"
+		"name": "MIAGE 2",
+		"description": "Administrator",
+		"thumbnail": "https://github.com/GabbadiAbdelkarim/Android/blob/master/m2.png",
+		"image": "https://github.com/GabbadiAbdelkarim/Android/blob/master/m2.png"
 	},
-	{
+		{
 		"id": "3",
-		"name": "Ahmed",
-		"role": "prof",
-		"description": "Le directeur",
-		"thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/thumbnail_dartfrog.jpg",
-		"image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/dartfrog.jpg"
+		"name": "MIAGE 3",
+		"description": "Administrator",
+		"thumbnail": "https://github.com/GabbadiAbdelkarim/Android/blob/master/m3.png",
+		"image": "https://github.com/GabbadiAbdelkarim/Android/blob/master/m3.png"
 	}
 
 ]
